@@ -21,3 +21,11 @@
     "vue-tsc": "^3.3.8"
   }
 }
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

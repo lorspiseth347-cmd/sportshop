@@ -42,7 +42,7 @@
             </ul>
           </li>
         </ul>
-        <form class="d-flex" role="search">
+        <form class="d-flex align-items-center" role="search">
           <input
             class="form-control me-2"
             type="search"
